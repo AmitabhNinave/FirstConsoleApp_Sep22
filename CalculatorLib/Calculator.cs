@@ -50,10 +50,10 @@ namespace CalculatorLib
             {
                 throw dbze;
             }
-            catch (Exception objEx)
+            catch (Exception objEx1)
             {
 
-                throw objEx;
+                throw objEx1;
             }
 
         }
