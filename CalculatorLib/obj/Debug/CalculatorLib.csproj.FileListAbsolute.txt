@@ -1,0 +1,12 @@
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\bin\Debug\CalculatorLib.dll
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\bin\Debug\CalculatorLib.pdb
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.dll
+F:\Trainings\Training_X\CapG_DN_OL_26-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.pdb
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\bin\Debug\CalculatorLib.dll
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\bin\Debug\CalculatorLib.pdb
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.csprojAssemblyReference.cache
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.csproj.CoreCompileInputs.cache
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.dll
+F:\Trainings\Training_X\CapG_DN_OL_23-08-22\CSharp\Demos\FirstConsoleApp\CalculatorLib\obj\Debug\CalculatorLib.pdb
